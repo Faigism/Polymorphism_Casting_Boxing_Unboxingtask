@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Polymorphism,casting,boxing,unboxing/1.0.0": {
+        "dependencies": {
+          "StoreClass": "1.0.0"
+        },
+        "runtime": {
+          "Polymorphism,casting,boxing,unboxing.dll": {}
+        }
+      },
+      "StoreClass/1.0.0": {
+        "runtime": {
+          "StoreClass.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Polymorphism,casting,boxing,unboxing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StoreClass/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,10 @@
+C:\Users\faiqi\source\Polymorphism,casting,boxing,unboxing\StoreClass\bin\Debug\netcoreapp3.1\StoreClass.deps.json
+C:\Users\faiqi\source\Polymorphism,casting,boxing,unboxing\StoreClass\bin\Debug\netcoreapp3.1\StoreClass.dll
+C:\Users\faiqi\source\Polymorphism,casting,boxing,unboxing\StoreClass\bin\Debug\netcoreapp3.1\StoreClass.pdb
+C:\Users\faiqi\source\Polymorphism,casting,boxing,unboxing\StoreClass\obj\Debug\netcoreapp3.1\StoreClass.csproj.AssemblyReference.cache
+C:\Users\faiqi\source\Polymorphism,casting,boxing,unboxing\StoreClass\obj\Debug\netcoreapp3.1\StoreClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faiqi\source\Polymorphism,casting,boxing,unboxing\StoreClass\obj\Debug\netcoreapp3.1\StoreClass.AssemblyInfoInputs.cache
+C:\Users\faiqi\source\Polymorphism,casting,boxing,unboxing\StoreClass\obj\Debug\netcoreapp3.1\StoreClass.AssemblyInfo.cs
+C:\Users\faiqi\source\Polymorphism,casting,boxing,unboxing\StoreClass\obj\Debug\netcoreapp3.1\StoreClass.csproj.CoreCompileInputs.cache
+C:\Users\faiqi\source\Polymorphism,casting,boxing,unboxing\StoreClass\obj\Debug\netcoreapp3.1\StoreClass.dll
+C:\Users\faiqi\source\Polymorphism,casting,boxing,unboxing\StoreClass\obj\Debug\netcoreapp3.1\StoreClass.pdb

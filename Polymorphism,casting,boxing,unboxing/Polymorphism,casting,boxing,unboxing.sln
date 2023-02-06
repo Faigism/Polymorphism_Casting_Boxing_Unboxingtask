@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism,casting,boxing,unboxing", "Polymorphism,casting,boxing,unboxing\Polymorphism,casting,boxing,unboxing.csproj", "{23ABB256-CF42-4A50-B580-413FD78B27D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoreClass", "StoreClass\StoreClass.csproj", "{40C66B7C-F50D-4D3C-8579-E336A4DB83CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23ABB256-CF42-4A50-B580-413FD78B27D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23ABB256-CF42-4A50-B580-413FD78B27D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23ABB256-CF42-4A50-B580-413FD78B27D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23ABB256-CF42-4A50-B580-413FD78B27D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40C66B7C-F50D-4D3C-8579-E336A4DB83CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40C66B7C-F50D-4D3C-8579-E336A4DB83CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40C66B7C-F50D-4D3C-8579-E336A4DB83CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40C66B7C-F50D-4D3C-8579-E336A4DB83CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {731BBE90-F8AB-407E-AB6F-9ECF5B2C3AEE}
+	EndGlobalSection
+EndGlobal
